@@ -1,7 +1,7 @@
 ## Hey everyone! I'm Alejandro Mercado 👋
 
 
-👨🏼‍💻  Sobre mi:
+👨🏼‍💻  About me:
 🔸I am Alejandro S. Mercado, I am a future Software Engineer and computer engineer with knowledge in various areas of computing and programming.
   I am currently in the Junior category and my goal is to reach Senior with the greatest knowledge and experience possible. 
   I stand out for learning quickly, having a lot of flexibility and adaptability in any environment and for having a great enthusiasm for learning.
