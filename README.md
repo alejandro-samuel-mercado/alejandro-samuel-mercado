@@ -17,5 +17,6 @@
 
 ## 📊 GitHub Analytics
 <!-- Aquí podrías agregar imágenes o links a servicios como GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alejandro-sm&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-samuel-mercado&layout=compact&langs_count=8&theme=radical)
+
 
