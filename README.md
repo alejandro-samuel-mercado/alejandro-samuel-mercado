@@ -1,4 +1,4 @@
-## Hey everyone! I'm Sergie Code 👋
+## Hey everyone! I'm Alejandro Mercado 👋
 
 
 👨🏼‍💻  Sobre mi:
