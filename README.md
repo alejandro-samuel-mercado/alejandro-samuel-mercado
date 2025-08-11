@@ -28,7 +28,8 @@ I’m recognized for my **fast learning ability**, **adaptability**, and **enthu
 
 ## 📊 GitHub Stats
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=alejandro-samuel-mercado&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=alejandro-samuel-mercado&show_icons=true&theme=dracula" height="150" alt="stats graph" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-samuel-mercado&hide=procfile,hlsl,jupyter%20notebook,shaderlab&layout=compact&langs_count=9&theme=radical&exclude_repo=fly-and-live-protype-game" height="150" alt="languages graph"  />
 </div>
 ---
@@ -54,7 +55,7 @@ I’m recognized for my **fast learning ability**, **adaptability**, and **enthu
 
 <div>
   <a href="https://www.facebook.com/alejandromercado.mercado.54" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/500px-Facebook_Logo_%282019%29.png" height="35" alt="Facebook" /></a>
-  <a href="https://www.instagram.com/alejandro_s.a.m_rg/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" height="35" alt="Instagram" /></a>
-  <a href="mailto:alesamu.am@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/alejandro-samuel-rg/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/alejandro_s.a.m_rg/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/2048px-Instagram_logo_2022.svg.png" height="35" alt="Instagram" /></a>
+  <a href="mailto:alesamu.am@gmail.com"><img src="https://images.icon-icons.com/2631/PNG/512/gmail_new_logo_icon_159149.png" height="35" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/alejandro-samuel-rg/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" height="35" alt="LinkedIn" /></a>
 </div>
