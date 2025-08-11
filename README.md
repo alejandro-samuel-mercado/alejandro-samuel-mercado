@@ -13,7 +13,7 @@ I’m recognized for my **fast learning ability**, **adaptability**, and **enthu
 ## 💪 Key Skills
 
 - **Programming Languages & Frameworks**  
-  Java · Python · JavaScript ·React.js · Node.js · Django
+  Java · Python · JavaScript ·React.js ·  ·NextJs  · Node.js · Django  ·LISP · GO 
 
 - **Web Development**  
   HTML · CSS · Tailwind CSS · Bootstrap  
@@ -29,9 +29,8 @@ I’m recognized for my **fast learning ability**, **adaptability**, and **enthu
 ## 📊 GitHub Stats
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=alejandro-samuel-mercado&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-samuel-mercado&layout=compact&langs_count=9&theme=radical&exclude_repo=fly-and-live-protype-game" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-samuel-mercado&hide=procfile,hlsl,jupyter%20notebook,shaderlab&layout=compact&langs_count=9&theme=radical&exclude_repo=fly-and-live-protype-game" height="150" alt="languages graph"  />
 </div>
-
 ---
 
 <img align="right" height="150" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" alt="Hacker gif" />
