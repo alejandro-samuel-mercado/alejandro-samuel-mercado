@@ -28,7 +28,7 @@ I’m recognized for my **fast learning ability**, **adaptability**, and **enthu
 
 ## 📊 GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=alejandro-samuel-mercado&show_icons=true&theme=dracula" height="150" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=alejandro-samuel-mercado&show_icons=true&theme=dracula" height="200" alt="stats graph" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-samuel-mercado&hide=procfile,hlsl,jupyter%20notebook,shaderlab&layout=compact&langs_count=9&theme=radical&exclude_repo=fly-and-live-protype-game" height="150" alt="languages graph"  />
 </div>
