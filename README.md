@@ -13,7 +13,7 @@ I’m recognized for my **fast learning ability**, **adaptability**, and **enthu
 ## 💪 Key Skills
 
 - **Programming Languages & Frameworks**  
-  Java · Python · JavaScript · Angular · React.js · NextJs  · Node.js · Django  · Springboot ·LISP
+  Java · Python · JavaScript · Angular · React.js · NextJs  · Node.js · Express · Django · Springboot · LISP
 
 - **Web Development**  
   HTML · CSS · Tailwind CSS · Bootstrap  
@@ -22,7 +22,7 @@ I’m recognized for my **fast learning ability**, **adaptability**, and **enthu
   MongoDB · MySQL  · PostgreSql
 
 - **Core Competencies**  
-  Algorithms & Data Structures · Critical Thinking · Problem Solving · Clear Communication · Adaptability  
+  Algorithms & Data Structures · Concurrent and parallel programming · Critical Thinking · Problem Solving · Clear Communication · Adaptability  
 
 ---
 
