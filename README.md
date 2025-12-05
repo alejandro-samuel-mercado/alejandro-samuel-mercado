@@ -13,7 +13,7 @@ I’m recognized for my **fast learning ability**, **adaptability**, and **enthu
 ## 💪 Key Skills
 
 - **Programming Languages & Frameworks**  
-  Java · Python · JavaScript ·React.js ·  ·NextJs  · Node.js · Django  ·LISP · GO 
+  Java · Python · JavaScript · Angular · React.js · NextJs  · Node.js · Django  · Springboot ·LISP
 
 - **Web Development**  
   HTML · CSS · Tailwind CSS · Bootstrap  
